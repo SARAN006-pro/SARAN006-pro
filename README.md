@@ -4,17 +4,15 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SARAN006-pro&style=flat-square&color=58A6FF&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/SARAN006-pro?style=flat-square&color=58A6FF&label=Followers)](https://github.com/SARAN006-pro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saranvaratharaj.tech-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://saranvaratharaj.tech)
 
 </div>
 
 ---
 
-## Saran V A — AI & Full Stack Developer
+## Saran V A - AI & Full Stack Developer
 
-Pre-Final Year B.Tech IT student at **Rathinam Technical Campus** (CGPA: **8.24** · Class of 2027) with hands-on experience in AI, Machine Learning, and full-stack web development. I build intelligent, data-driven applications that create measurable real-world impact — from agentic AI systems to smart farming platforms.
+Pre-Final Year B.Tech IT student at **Rathinam Technical Campus** (CGPA: **8.24** · Class of 2027) with hands-on experience in AI, Machine Learning, and full-stack web development. I build intelligent, data-driven applications that create measurable real-world impact - from agentic AI systems to smart farming platforms.
 
 Currently seeking internship opportunities in **AI/ML**, **Data Engineering**, and **Full Stack Development**.
 
@@ -81,9 +79,9 @@ Currently seeking internship opportunities in **AI/ML**, **Data Engineering**, a
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**Jumpstart — Intelligent Learning**](https://github.com/SARAN006-pro/jumpstart) | AI-powered coding learning assistant with personalized guidance, knowledge assistance, and progress tracking. | `Python` `FastAPI` `React` `LLM` |
+| [**Jumpstart - Intelligent Learning**](https://github.com/SARAN006-pro/jumpstart) | AI-powered coding learning assistant with personalized guidance, knowledge assistance, and progress tracking. | `Python` `FastAPI` `React` `LLM` |
 | [**Agentic AI Assistant**](https://github.com/SARAN006-pro/agentic-ai-assistant) | Multi-step task execution agent with intelligent planning. Reduces manual intervention through autonomous tool use. | `Python` `n8n` `REST API` `LLM` |
-| [**AgriAssist — Smart Farming**](https://github.com/SARAN006-pro/agriassist) | AI-driven farming platform with real-time crop guidance and personalized recommendations to optimize yield and reduce risk. | `Python` `FastAPI` `MongoDB` `ML` |
+| [**AgriAssist - Smart Farming**](https://github.com/SARAN006-pro/agriassist) | AI-driven farming platform with real-time crop guidance and personalized recommendations to optimize yield and reduce risk. | `Python` `FastAPI` `MongoDB` `ML` |
 
 > See all repositories → [github.com/SARAN006-pro](https://github.com/SARAN006-pro?tab=repositories)
 
@@ -102,7 +100,7 @@ Currently seeking internship opportunities in **AI/ML**, **Data Engineering**, a
 
 ## Experience
 
-**AI & ML Intern — Novi Tech**
+**AI & ML Intern - Novi Tech**
 
 Developed and evaluated machine learning models with hands-on experience in data preprocessing and feature engineering. Applied SQL and Python to structured datasets through collaborative assignments.
 
@@ -111,7 +109,7 @@ Developed and evaluated machine learning models with hands-on experience in data
 ## Currently Learning
 
 ```
-2025 Focus
+2026 Focus
 ──────────────────────────────────────────────────────────
   Agentic AI & LLM Systems    ████████████████░░░░   80%
   Data Engineering            ██████████████░░░░░░   70%
@@ -120,11 +118,11 @@ Developed and evaluated machine learning models with hands-on experience in data
 ──────────────────────────────────────────────────────────
 ```
 
-- [x] Machine learning — preprocessing, feature engineering, model evaluation
+- [x] Machine learning - preprocessing, feature engineering, model evaluation
 - [x] REST API design with FastAPI and Python
-- [x] AWS AI Practitioner — certified
-- [x] DSA in Java — problem solving for placements
-- [ ] Deploying ML models to production (MLflow, Docker, AWS)
+- [x] AWS AI Practitioner - certified
+- [x] DSA in Java - problem solving for placements
+- [x] Deploying ML models to production (MLflow, Docker, AWS)
 - [ ] Apache Spark and large-scale data pipelines
 - [ ] System design for engineering interviews
 - [ ] Open-source contributions in AI/Data tooling
